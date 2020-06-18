@@ -1,0 +1,5 @@
+Backup root folder where
+- design
+- dev
+- public
+- staging
