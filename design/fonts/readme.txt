@@ -1,0 +1,1 @@
+Purchased / Used fonts for website / graphic/ logo/ app / branding document.
