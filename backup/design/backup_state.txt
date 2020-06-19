@@ -1,3 +1,0 @@
-Design Backup Folder
-- Always try to backup with common backup format. Folder names with date.
-(i.e. = 01-June052019 / Numbring-MonthDateYear)
