@@ -1,1 +1,0 @@
-Colors folder Where we can store colors reference images for color choices and / color codes into text file. 
